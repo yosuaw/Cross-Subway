@@ -11,3 +11,9 @@ As Adam, player must try to escape from the ghosts by crossing the existing trai
 
 
 To be able to understand how to play this game in detail, you can see it in the game's initial menu display in the "How to Play" section. Click the button to read how to play this game.
+
+![image](https://github.com/yosuaw/Cross-Subway/assets/80568597/244a2bfc-1884-4a89-bd52-e21f9771114b)
+
+![Uploading image.png…]()
+
+
