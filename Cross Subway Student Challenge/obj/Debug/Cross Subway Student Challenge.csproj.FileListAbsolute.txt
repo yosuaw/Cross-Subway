@@ -1,0 +1,30 @@
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\bin\Debug\Cross Subway Student Challenge.exe.config
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\bin\Debug\Cross Subway Student Challenge.exe
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\bin\Debug\Cross Subway Student Challenge.pdb
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\obj\Debug\Cross Subway Student Challenge.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\obj\Debug\Cross_Subway_Student_Challenge.FormMenu.resources
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\obj\Debug\Cross_Subway_Student_Challenge.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\obj\Debug\Cross Subway Student Challenge.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\obj\Debug\Cross Subway Student Challenge.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\obj\Debug\Cross Subway Student Challenge.exe
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\obj\Debug\Cross Subway Student Challenge.pdb
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\bin\Debug\Resources\InGame SoundTrack.mp3
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\obj\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\obj\Debug\Cross Subway Student Challenge.csproj.ResolveComReference.cache
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\obj\Debug\Cross_Subway_Student_Challenge.FormHowToPlay.resources
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\obj\Debug\Cross_Subway_Student_Challenge.FormGame.resources
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\bin\Debug\Resources\Click.mp3
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\bin\Debug\Resources\Understand.mp3
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\bin\Debug\Resources\TrainMenu1.mp3
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\bin\Debug\Resources\TrainMenu2.mp3
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\bin\Debug\Resources\Menu SoundTrack.mp3
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\bin\Debug\Resources\Typecasting.mp3
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\bin\Debug\Resources\GhostSound.mp3
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\bin\Debug\Resources\Footstep.mp3
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\bin\Debug\Resources\CharDamagedSound.mp3
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\bin\Debug\Resources\GhostSoundCharHurt.mp3
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\bin\Debug\Resources\GhostSoundCharWin.mp3
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\bin\Debug\Resources\GhostSoundInGame1.mp3
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\bin\Debug\Resources\GhostSoundInGame2.mp3
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\bin\Debug\Resources\GhostSoundInGame3.mp3
+C:\Users\ASUS\Desktop\Student Challenge\Cross Subway Student Challenge\Cross Subway Student Challenge\bin\Debug\Resources\TrainMoveSound.mp3
