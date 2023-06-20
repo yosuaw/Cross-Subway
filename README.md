@@ -14,6 +14,4 @@ To be able to understand how to play this game in detail, you can see it in the 
 
 ![image](https://github.com/yosuaw/Cross-Subway/assets/80568597/244a2bfc-1884-4a89-bd52-e21f9771114b)
 
-![Uploading image.png…]()
-
-
+![image](https://github.com/yosuaw/Cross-Subway/assets/80568597/fb72cfa7-30af-45d9-954c-4343487525d3)
