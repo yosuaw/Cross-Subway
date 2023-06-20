@@ -1,4 +1,4 @@
-# Cross-Subway
+# Cross Subway
 
 ## Overview
 Cross Subway is an arcade game that was developed during the student challenge course in algorithms and programming (2019). This game was developed using the C# programming language. The name "Cross Subway" comes from how to play this game itself where players have to try to cross the subway tracks to get points. This game is actually a story game designed in such a way as to be an arcade game.
